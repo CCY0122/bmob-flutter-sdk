@@ -1,5 +1,17 @@
 
-# 本fork将Dio版本升级到2.1.7并做了相应修改
+# 本fork将Dio版本升级到2.1.7并做了相应修改。
+
+**直接git地址依赖：**
+```
+  data_plugin:
+    git:
+      url: https://github.com/CCY0122/bmob-flutter-sdk.git
+      path: data_plugin/
+```
+
+
+
+
 
 # bmob-flutter-sdk
 Bmob Flutter SDK
